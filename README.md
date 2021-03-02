@@ -1,6 +1,6 @@
 # Linear regression model to predict house prices
 
-This notebook creates a linear regression model to predict house prices. The dataset used for this notebook is the Ames Housing dataset, which was compiled for data science by Dean De Cock.
+This notebook creates a linear regression model to predict house prices. Data is taken from the Ames Housing dataset, which was compiled for data science by Dean De Cock.
 
 The dataset consists of 1,460 rows and 81 columns.
 
