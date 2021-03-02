@@ -15,6 +15,3 @@ SalePrice is the dependent variable for the regression model. After determining 
 After splitting the data into training and test datasets, sklearn.linear_model.LinearRegression is used to fit a linear model.
 
 The model achieved an R squared value of 0.838.
-
-Screen Shot 2021-03-01 at 4.59.17 PM![image](https://user-images.githubusercontent.com/79678028/109575765-b33e4480-7aaf-11eb-9e8b-7ded5090d6f1.png)
-
