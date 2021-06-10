@@ -6,11 +6,11 @@ The dataset consists of 1,460 rows and 81 columns.
 
 SalePrice is the dependent variable for the regression model. After determining the correlation coefficient between independent variables in the dataset and SalePrice, 5 independent variables were selected for the model:
 
-* OverallQual - Overall Quality
-* GrLivArea - Above Ground Living Area
-* GarageArea - Garage Area
-* TotalBsmtSF - Total Basement Square Feet
-* YearBuilt - Construction Year
+* Overall Quality
+* Above Ground Living Area
+* Garage Area
+* Total Basement Square Feet
+* Construction Year
 
 After splitting the data into training and test datasets, sklearn.linear_model.LinearRegression is used to fit a linear model.
 
